@@ -88,6 +88,10 @@ window must be used to match with a possible QRS complex.
 <br>
 <a href="https://ibb.co/3NcbWrq"><img src="https://i.ibb.co/XstPp2g/r2.png" alt="r2" border="0"></a>
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 
 
