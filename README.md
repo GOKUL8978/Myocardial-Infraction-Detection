@@ -16,3 +16,18 @@ many people. Further, it may also happen that ECG performed in the initial stage
 be diagnostic, as the evolution of ECG variations may vary considerably from person to person.
 Therefore, it becomes important to take serial electrocardiograms in certain intervals to get an
 assured diagnosis.
+
+## Softwares Used
+ - **Xilinx 14.7 ISE**
+ - **Modelsim**
+ - **Verilog HDL**
+
+## Block Diagram
+
+![Block Diagram](https://i.ibb.co/b3NyV0h/BD.png "a title")
+
+## RTL Schematic Pre-Processing Stages
+
+![RTL Schematic](https://i.ibb.co/gm2yt19/rtl.png  "RTL")
+
+
